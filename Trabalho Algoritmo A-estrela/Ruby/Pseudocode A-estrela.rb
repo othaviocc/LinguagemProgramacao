@@ -30,6 +30,8 @@ def a_estrela(grafo, inicio, alvo, heuristica)
     end
     caminho
   end
+
+  # Encontra-se os outros códigos em: https://github.com/TheoSoares/Algoritmo-A-Estrela 
   
 
   
